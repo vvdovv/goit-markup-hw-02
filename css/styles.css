@@ -1,6 +1,140 @@
-
-.logo {font-family: "Raleway", sans-serif;
-    font-size: 21px;}
 body {
     font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.logo {font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:#4d5ae5;
+
+}
+.logo-span {
+   color: #2e2f42;
+}
+
+.first-ul {
+    list-style-type: none;
+}
+
+.upper-menu-list {
+    list-style-type: none;
+    font-weight:500; 
+}
+
+.first-li {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42
+}
+
+.first-li:hover, 
+.first-li:focus {
+    color: #404bbf;
+}
+.second-li {
+    font-weight: inherit;
+}
+
+.address {
+    list-style-type: none;
+    font-style: normal;
+}
+
+.address-li {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+.address-li:hover, 
+.address-li:focus {
+    color: #404bbf;
+    focus: #404bbf
+
+}
+
+.section-one {
+    background-color: #2e2f42;
+}
+
+.h1 {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.order-button {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.order-button:hover,
+.order-button:focus {
+    background-color: #404BBF;
+    cursor: pointer;
+}
+
+.benefits-h2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.benefits-p {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+
+.benefits, .team {
+    list-style-type: none;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.team-h2 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.team-li {
+    background-color: #FFFFFF;
+}
+
+.team-h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.team-p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    
 }
