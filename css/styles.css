@@ -210,3 +210,7 @@ address {
 .address-li:focus {
     color: #404bbf;
 }
+
+.team-ul {
+background-color: #FFFFFF;
+}
