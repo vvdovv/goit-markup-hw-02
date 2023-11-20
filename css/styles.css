@@ -4,7 +4,8 @@ body {
     background-color: #FFFFFF;
 }
 
-.logo {font-family: "Raleway", sans-serif;
+.logo {
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700px;
     line-height: 1.17;
@@ -64,7 +65,7 @@ color: #2e2f42
     background-color: #2e2f42;
 }
 
-.h1 {
+.h-one {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -88,7 +89,7 @@ color: #2e2f42
     cursor: pointer;
 }
 
-.benefits-h2 {
+.benefits-htwo {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -96,22 +97,28 @@ color: #2e2f42
     color: #2e2f42;
 }
 
+.benefits-hthree {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42
+}
+
 .benefits-p {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    font-size: 16px;
 
-}
 
-.benefits, .team {
-    list-style-type: none;
 }
 
 .team {
-    background-color: #F4F4FD;
+   background-color: #F4F4FD;
 }
 
-.team-h2 {
+.team-htwo {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -119,11 +126,9 @@ color: #2e2f42
     text-transform: capitalize;
     color: #2e2f42;
 }
-.team-li {
-    background-color: #FFFFFF;
-}
 
-.team-h3 {
+
+.team-hthree {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -136,5 +141,55 @@ color: #2e2f42
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    
+
+}
+
+.portfolio {
+    background-color: #F4F4FD
+
+}
+
+.portfolio-htwo {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.portfolio-hthree {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+
+}
+
+.portfolio-p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+
+}
+.portfolio,
+.benefits,
+.team-ul {
+    list-style-type: none;
+}
+
+.footer {
+    background-color: #2e2f42;
+
+}
+.logo-footer {
+    color: #f4f4fd;
+}
+
+.footer-p {
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
