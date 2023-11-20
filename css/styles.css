@@ -6,8 +6,8 @@ body {
 
 .logo {
     font-family: "Raleway", sans-serif;
-    font-size: 18px;
     font-weight: 700;
+    font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -194,7 +194,7 @@ color: #2e2f42;
     letter-spacing: 0.02em;
 }
 
-.address {
+address {
     font-style: normal;
 }
 
