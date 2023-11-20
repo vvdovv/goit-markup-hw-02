@@ -12,8 +12,8 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:#4d5ae5;
-
 }
+
 .logo-span {
    color: #2e2f42;
 }
@@ -58,7 +58,6 @@ color: #2e2f42
 .address-li:focus {
     color: #404bbf;
     focus: #404bbf
-
 }
 
 .section-one {
@@ -110,8 +109,6 @@ color: #2e2f42
     letter-spacing: 0.02em;
     color: #434455;
     font-size: 16px;
-
-
 }
 
 .team {
@@ -142,13 +139,10 @@ color: #2e2f42
     letter-spacing: 0.02em;
     color: #434455;
     background-color: #FFFFFF;
-    
-
 }
 
 .portfolio {
     background-color: #F4F4FD
-
 }
 
 .portfolio-htwo {
@@ -166,7 +160,6 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
-
 }
 
 .portfolio-p {
@@ -174,8 +167,6 @@ color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
-
 }
 .portfolio,
 .benefits,
@@ -185,8 +176,8 @@ color: #2e2f42;
 
 .footer {
     background-color: #2e2f42;
-
 }
+
 .logo-footer {
     color: #f4f4fd;
 }
